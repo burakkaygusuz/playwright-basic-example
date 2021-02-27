@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "ES2016",
+        "lib": [
+            "DOM",
+            "DOM.Iterable",
+            "ESNext.Intl"
+        ],
+        "strict": true,
+        "module": "commonjs",
+        "noEmit": true
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
