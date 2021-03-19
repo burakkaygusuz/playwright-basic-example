@@ -10,7 +10,7 @@ module.exports = {
             launchOptions: {
                 headless: true,
                 slowMo: 100
-              },
+            },
         },
-    }
+    },
 };
